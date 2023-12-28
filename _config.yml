@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hola@laurasirvent.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: lady_caballo
 github_username: laurasirco
 theme: minima
